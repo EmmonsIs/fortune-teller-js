@@ -33,3 +33,5 @@ const firstName = prompt('What is your First Name?');
 const fortune = `In ${year} year(s), ${firstName} will be working as a(n) ${randJob} in ${randCountry}.`
 
 // OUTPUT
+
+document.getElementById('myFortune').innerHTML = fortune;
