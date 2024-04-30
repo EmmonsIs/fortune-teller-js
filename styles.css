@@ -1,0 +1,14 @@
+/* Isaiah Emmons
+4/30/24
+Fortune Teller PRoject JS */
+
+
+body{
+    background-color: rgb(106, 147, 167);
+}
+
+#myFortune{
+    border: 2px solid black;
+    padding: 10px;
+    background-color: aqua;
+}
